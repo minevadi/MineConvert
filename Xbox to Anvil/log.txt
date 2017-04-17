@@ -1,4 +1,0 @@
-Chunk conversion complete for region x=0, z=0. Chunk details:
-	OK: 729
-	Missing: 0
-	Broken: 0
